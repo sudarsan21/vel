@@ -15,8 +15,5 @@ You can self-host this website by following these steps:
 2. Install the dependencies with `npm install` or `pnpm install`
 3. Build the website with `npm run build` or `pnpm build`
 4. Serve the website with something like Apache/Nginx, or using `npm run start` or `pnpm start`
-5. Deploy to Vercel? Just run `vercel --prod` and the vercel.json file will take care of the rest. Note: website already deployed to [mwaa.vercel.app](https://mwaa.vercel.app) and [mwaaa.vercel.app](https://mwaaa.vercel.app)
+5. Deploy to Vercel? Just run `vercel --prod` and the vercel.json file will take care of the rest. 
 
-## License
-
-Made by [Johan](https://johanstick.fr). You can use this project the way you want, including modifying it. Feel free to credit me if you want to!
